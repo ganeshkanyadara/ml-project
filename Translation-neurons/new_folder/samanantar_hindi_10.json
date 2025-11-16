@@ -1,0 +1,82 @@
+[
+  {
+    "id": "samanantar_hi_1",
+    "input": {
+      "idx": 0,
+      "src": "However, Paes, who was partnering Australia's Paul Hanley, could only go as far as the quarterfinals where they lost to Bhupathi and Knowles",
+      "tgt": "आस्ट्रेलिया के पाल हेनली के साथ जोड़ी बनाने वाले पेस मियामी में क्वार्टरफाइनल तक ही पहुंच सके क्योंकि इस दौर में उन्हें भूपति और नोल्स ने हराया था।"
+    }
+  },
+  {
+    "id": "samanantar_hi_2",
+    "input": {
+      "idx": 1,
+      "src": "Whosoever desires the reward of the world, with Allah is the reward of the world and of the Everlasting Life. Allah is the Hearer, the Seer.",
+      "tgt": "और जो शख्स (अपने आमाल का) बदला दुनिया ही में चाहता है तो ख़ुदा के पास दुनिया व आख़िरत दोनों का अज्र मौजूद है और ख़ुदा तो हर शख्स की सुनता और सबको देखता है"
+    }
+  },
+  {
+    "id": "samanantar_hi_3",
+    "input": {
+      "idx": 2,
+      "src": "The value of insects in the biosphere is enormous because they outnumber all other living groups in measure of species richness.",
+      "tgt": "जैव-मंडल में कीड़ों का मूल्य बहुत है, क्योंकि प्रजातियों की समृद्धि के मामले में उनकी संख्या अन्य जीव समूहों से ज़्यादा है।"
+    }
+  },
+  {
+    "id": "samanantar_hi_4",
+    "input": {
+      "idx": 3,
+      "src": "Mithali To Anchor Indian Team Against Australia in ODIs",
+      "tgt": "आस्ट्रेलिया के खिलाफ वनडे टीम की कमान मिताली को"
+    }
+  },
+  {
+    "id": "samanantar_hi_5",
+    "input": {
+      "idx": 4,
+      "src": "After the assent of the Honble President on 8thSeptember, 2016, the 101thConstitutional Amendment Act, 2016 came into existence",
+      "tgt": "8 सितम्‍बर, 2016 को माननीय राष्‍ट्रपति की स्‍वीकृति मिलने के बाद 101वां संविधान संशोधन अधिनियम, 2016 अस्तित्‍व में आया"
+    }
+  },
+  {
+    "id": "samanantar_hi_6",
+    "input": {
+      "idx": 5,
+      "src": "The court has fixed a hearing for February 12",
+      "tgt": "अदालत ने इस मामले में आगे की सुनवाई के लिए एक फरवरी की तारीख़ तय की"
+    }
+  },
+  {
+    "id": "samanantar_hi_7",
+    "input": {
+      "idx": 6,
+      "src": "Please select the position where the track should be split.",
+      "tgt": "जहाँ पर ट्रैक को विभाजित किया जाना है, कृपया वह स्थान चुनें."
+    }
+  },
+  {
+    "id": "samanantar_hi_8",
+    "input": {
+      "idx": 7,
+      "src": "As per police, armys 22RR, special operation Group (SOG) of police and the Central Reserve Police Force (CRPF) cordoned the village and launched search operation in the area.",
+      "tgt": "इसके तुरंत बाद सेना की 22 राष्ट्रीय राइफल्स (आरआर), सीआरपीएफ और पुलिस के स्पेशल ऑपरेशन ग्रुप (एसओजी) के जवानों द्वारा इलाके की घेराबंदी कर तलाशी अभियान चलाया।"
+    }
+  },
+  {
+    "id": "samanantar_hi_9",
+    "input": {
+      "idx": 8,
+      "src": "Jharkhand chief minister Hemant Soren",
+      "tgt": "झारखंड के मुख्यमंत्री हेमंत सोरेन (फोटोः पीटीआई)"
+    }
+  },
+  {
+    "id": "samanantar_hi_10",
+    "input": {
+      "idx": 9,
+      "src": "Arvind Kumar, SHO of the sector 55/56 police station, said a case has been registered under section 376-D (gang rape) of the Indian Penal Code.",
+      "tgt": "सेक्टर 55/56 के एसएचओ अरविंद कुमार ने बताया कि इस मामले में आईपीसी की धारा 376-डी (गैंगरेप) के तहत मामला दर्ज कर लिया गया है।"
+    }
+  }
+]
